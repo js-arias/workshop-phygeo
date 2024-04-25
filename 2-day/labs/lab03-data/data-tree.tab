@@ -1,0 +1,294 @@
+# time calibrated phylogenetic trees
+# data saved on: 2024-04-24T10:33:23-05:00
+tree	node	parent	age	taxon
+joyce2023	0	-1	104375000	
+joyce2023	1	0	79375000	
+joyce2023	2	1	38750000	
+joyce2023	3	2	31250000	
+joyce2023	4	3	0	Hypelate trifoliata
+joyce2023	5	3	19375000	
+joyce2023	6	5	0	Ganophyllum falcatum
+joyce2023	7	5	0	Zanha golungensis
+joyce2023	8	2	29375000	
+joyce2023	9	8	0	Exothea paniculata
+joyce2023	10	8	18750000	
+joyce2023	11	10	0	Hippobromus pauciflorus
+joyce2023	12	10	9689922	
+joyce2023	13	12	0	Filicium longifolium
+joyce2023	14	12	5813953	
+joyce2023	15	14	0	Filicium decipiens
+joyce2023	16	14	0	Filicium thouarsianum
+joyce2023	17	1	68125000	
+joyce2023	18	17	36875000	
+joyce2023	19	18	0	Euchorium cubense
+joyce2023	20	18	0	Magonia pubescens
+joyce2023	21	17	47500000	
+joyce2023	22	21	43750000	
+joyce2023	23	22	0	Hirania rosea
+joyce2023	24	22	29375000	
+joyce2023	25	24	0	Conchopetalum brachysepalum
+joyce2023	26	24	13125000	
+joyce2023	27	26	0	Arfeuillea arborescens
+joyce2023	28	26	0	Majidea zanguebarica
+joyce2023	29	21	46875000	
+joyce2023	30	29	0	Llagunoa nitida
+joyce2023	31	29	39375000	
+joyce2023	32	31	30625000	
+joyce2023	33	32	0	Boniodendron parviflorum
+joyce2023	34	32	0	Euphorianthus euneurus
+joyce2023	35	31	33750000	
+joyce2023	36	35	26875000	
+joyce2023	37	36	0	Harpullia rhyticarpa
+joyce2023	38	36	0	Loxodiscus coriaceus
+joyce2023	39	35	24375000	
+joyce2023	40	39	0	Cossinia australiana
+joyce2023	41	39	18125000	
+joyce2023	42	41	0	Diplopeltis huegelii
+joyce2023	43	41	9375000	
+joyce2023	44	43	0	Dodonaea dodecandra
+joyce2023	45	43	0	Dodonaea viscosa
+joyce2023	46	0	97500000	
+joyce2023	47	46	90625000	
+joyce2023	48	47	0	Xanthoceras sorbifolium
+joyce2023	49	47	78125000	
+joyce2023	50	49	28125000	
+joyce2023	51	50	0	Billia hippocastanum
+joyce2023	52	50	21250000	
+joyce2023	53	52	0	Handeliodendron bodinieri
+joyce2023	54	52	10625000	
+joyce2023	55	54	0	Aesculus chinensis
+joyce2023	56	54	0	Aesculus pavia
+joyce2023	57	49	61250000	
+joyce2023	58	57	0	Dipteronia sinensis
+joyce2023	59	57	57500000	
+joyce2023	60	59	0	Dipteronia dyeriana
+joyce2023	61	59	36875000	
+joyce2023	62	61	0	Acer palmatum
+joyce2023	63	61	19375000	
+joyce2023	64	63	0	Acer campestre
+joyce2023	65	63	0	Acer rubrum
+joyce2023	66	46	93125000	
+joyce2023	67	66	24375000	
+joyce2023	68	67	0	Delavaya toxocarpa
+joyce2023	69	67	0	Ungnadia speciosa
+joyce2023	70	66	89375000	
+joyce2023	71	70	59375000	
+joyce2023	72	71	0	Koelreuteria paniculata
+joyce2023	73	71	0	Stocksia brahuica
+joyce2023	74	70	82500000	
+joyce2023	75	74	34375000	
+joyce2023	76	75	19379844	
+joyce2023	77	76	0	Paranephelium macrophyllum
+joyce2023	78	76	0	Paranephelium xestophyllum
+joyce2023	79	75	23750000	
+joyce2023	80	79	0	Sisyrolepis muricata
+joyce2023	81	79	8750000	
+joyce2023	82	81	0	Amesiodendron chinense
+joyce2023	83	81	0	Pavieasia anamensis
+joyce2023	84	74	76875000	
+joyce2023	85	84	43750000	
+joyce2023	86	85	37500000	
+joyce2023	87	86	28750000	
+joyce2023	88	87	0	Pometia pinnata
+joyce2023	89	87	3750000	
+joyce2023	90	89	0	Blighia sapida
+joyce2023	91	89	0	Nephelium lappaceum
+joyce2023	92	86	33750000	
+joyce2023	93	92	0	Xerospermum noronhianum
+joyce2023	94	92	22500000	
+joyce2023	95	94	0	Litchi chinensis
+joyce2023	96	94	16250000	
+joyce2023	97	96	0	Dimocarpus longan
+joyce2023	98	96	0	Otonephelium stipulaceum
+joyce2023	99	85	41250000	
+joyce2023	100	99	6250000	
+joyce2023	101	100	0	Cubilia cubili
+joyce2023	102	100	3125000	
+joyce2023	103	102	0	Glenniea africana
+joyce2023	104	102	0	Radlkofera calodendron
+joyce2023	105	99	36875000	
+joyce2023	106	105	0	Aporrhiza paniculata
+joyce2023	107	105	31250000	
+joyce2023	108	107	29375000	
+joyce2023	109	108	0	Laccodiscus ferrugineus
+joyce2023	110	108	0	Pancovia bijuga
+joyce2023	111	107	19375000	
+joyce2023	112	111	0	Haplocoelopsis africana
+joyce2023	113	111	0	Placodiscus turbinatus
+joyce2023	114	84	74375000	
+joyce2023	115	114	73125000	
+joyce2023	116	115	46250000	
+joyce2023	117	116	24375000	
+joyce2023	118	117	0	Tristira triptera
+joyce2023	119	117	0	Zollingeria borneensis
+joyce2023	120	116	34375000	
+joyce2023	121	120	26250000	
+joyce2023	122	121	24375000	
+joyce2023	123	122	0	Alatococcus siqueirae
+joyce2023	124	122	0	Deinbollia pinnata
+joyce2023	125	121	15503875	
+joyce2023	126	125	0	Atalaya alata
+joyce2023	127	125	0	Atalaya capensis
+joyce2023	128	120	33125000	
+joyce2023	129	128	18750000	
+joyce2023	130	129	0	Thouinidium decandrum
+joyce2023	131	129	0	Toulicia reticulata
+joyce2023	132	128	28125000	
+joyce2023	133	132	0	Hornea mauritiana
+joyce2023	134	132	23750000	
+joyce2023	135	134	19375000	
+joyce2023	136	135	0	Lepisanthes ramiflora
+joyce2023	137	135	0	Lepisanthes rubiginosa
+joyce2023	138	134	8125000	
+joyce2023	139	138	0	Sapindus mukorossi
+joyce2023	140	138	0	Sapindus saponaria
+joyce2023	141	115	72500000	
+joyce2023	142	141	0	Tristiropsis acutangula
+joyce2023	143	141	68750000	
+joyce2023	144	143	30625000	
+joyce2023	145	144	0	Blighiopsis pseudostipularis
+joyce2023	146	144	23255813	
+joyce2023	147	146	0	Haplocoelum foliolosum
+joyce2023	148	146	0	Haplocoelum inoploeum
+joyce2023	149	143	68125000	
+joyce2023	150	149	36250000	
+joyce2023	151	150	0	Melicoccus bijugatus
+joyce2023	152	150	26875000	
+joyce2023	153	152	0	Talisia nervosa
+joyce2023	154	152	19375000	
+joyce2023	155	154	0	Dilodendron costaricense
+joyce2023	156	154	0	Tripterodendron filicifolium
+joyce2023	157	149	67500000	
+joyce2023	158	157	0	Blomia prisca
+joyce2023	159	157	65625000	
+joyce2023	160	159	0	Guindilia trinervis
+joyce2023	161	159	63125000	
+joyce2023	162	161	21250000	
+joyce2023	163	162	0	Athyana weinmanniifolia
+joyce2023	164	162	0	Diatenopteryx sorbifolia
+joyce2023	165	161	59375000	
+joyce2023	166	165	56250000	
+joyce2023	167	166	0	Bridgesia incisifolia
+joyce2023	168	166	50625000	
+joyce2023	169	168	0	Thouinia acuminata
+joyce2023	170	168	46000000	
+joyce2023	171	170	0	Allophylastrum frutescens
+joyce2023	172	170	3488372	
+joyce2023	173	172	0	Allophylus arboreus
+joyce2023	174	172	0	Allophylus trichodesmus
+joyce2023	175	165	46250000	
+joyce2023	176	175	0	Thinouia myriantha
+joyce2023	177	175	34375000	
+joyce2023	178	177	0	Lophostigma plumosum
+joyce2023	179	177	24375000	
+joyce2023	180	179	19379844	
+joyce2023	181	180	0	Cardiospermum halicacabum
+joyce2023	182	180	0	Urvillea ulmacea
+joyce2023	183	179	19375000	
+joyce2023	184	183	12500000	
+joyce2023	185	184	0	Serjania communis
+joyce2023	186	184	0	Serjania incana
+joyce2023	187	183	11627906	
+joyce2023	188	187	0	Paullinia pinnata
+joyce2023	189	187	0	Paullinia subauriculata
+joyce2023	190	114	35625000	
+joyce2023	191	190	27500000	
+joyce2023	192	191	19375000	
+joyce2023	193	192	0	Plagioscyphus jumellei
+joyce2023	194	192	16875000	
+joyce2023	195	194	0	Tsingya bemarana
+joyce2023	196	194	15625000	
+joyce2023	197	196	0	Pappea capensis
+joyce2023	198	196	0	Stadtmannia oppositifolia
+joyce2023	199	191	18125000	
+joyce2023	200	199	13750000	
+joyce2023	201	200	0	Gereaua perrieri
+joyce2023	202	200	0	Macphersonia cauliflora
+joyce2023	203	199	16250000	
+joyce2023	204	203	0	Camptolepis ramiflora
+joyce2023	205	203	14375000	
+joyce2023	206	205	0	Beguea apetala
+joyce2023	207	205	0	Pseudopteris decipiens
+joyce2023	208	190	34375000	
+joyce2023	209	208	32500000	
+joyce2023	210	209	0	Diploglottis campbellii
+joyce2023	211	209	28750000	
+joyce2023	212	211	13565891	
+joyce2023	213	212	0	Elattostachys apetala
+joyce2023	214	212	0	Elattostachys nervosa
+joyce2023	215	211	16875000	
+joyce2023	216	215	0	Alectryon carinatus
+joyce2023	217	215	625000	
+joyce2023	218	217	0	Lecaniodiscus cupanioides
+joyce2023	219	217	0	Podonephelium homei
+joyce2023	220	208	31250000	
+joyce2023	221	220	15625000	
+joyce2023	222	221	0	Jagera javanica
+joyce2023	223	221	0	Trigonachras postardanjeisin
+joyce2023	224	220	21875000	
+joyce2023	225	224	9375000	
+joyce2023	226	225	0	Guioa rhoifolia
+joyce2023	227	225	0	Lepidopetalum perrottetii
+joyce2023	228	224	21250000	
+joyce2023	229	228	0	Gongrodiscus bilocularis
+joyce2023	230	228	20625000	
+joyce2023	231	230	18750000	
+joyce2023	232	231	0	Sarcopteryx squamosa
+joyce2023	233	231	18125000	
+joyce2023	234	233	0	Mischarytera lautereriana
+joyce2023	235	233	16250000	
+joyce2023	236	235	0	Eurycorymbus cavaleriei
+joyce2023	237	235	0	Mischocarpus pyriformis
+joyce2023	238	230	19375000	
+joyce2023	239	238	16250000	
+joyce2023	240	239	13125000	
+joyce2023	241	240	0	Arytera litoralis
+joyce2023	242	240	12500000	
+joyce2023	243	242	0	Synima cordierorum
+joyce2023	244	242	11250000	
+joyce2023	245	244	0	Castanospora alphandii
+joyce2023	246	244	8125000	
+joyce2023	247	246	0	Cupaniopsis trigonocarpa
+joyce2023	248	246	6250000	
+joyce2023	249	248	0	Cupaniopsis anacardioides
+joyce2023	250	248	0	Cupaniopsis macropetala
+joyce2023	251	239	10625000	
+joyce2023	252	251	8125000	
+joyce2023	253	252	0	Dictyoneura obtusa
+joyce2023	254	252	6250000	
+joyce2023	255	254	0	Lepiderema ixiocarpa
+joyce2023	256	254	0	Lepiderema punctulata
+joyce2023	257	251	5625000	
+joyce2023	258	257	0	Lepidocupania arcuata
+joyce2023	259	257	3750000	
+joyce2023	260	259	0	Lepidocupania lepidota
+joyce2023	261	259	0	Lepidocupania squamosa
+joyce2023	262	238	18125000	
+joyce2023	263	262	17500000	
+joyce2023	264	263	14375000	
+joyce2023	265	264	0	Rhysotoechia flavescens
+joyce2023	266	264	0	Rhysotoechia robertsonii
+joyce2023	267	263	14375000	
+joyce2023	268	267	0	Cnesmocarpon dasyantha
+joyce2023	269	267	12500000	
+joyce2023	270	269	0	Sarcotoechia cuneata
+joyce2023	271	269	0	Storthocalyx chryseus
+joyce2023	272	262	15625000	
+joyce2023	273	272	0	Pentascyphus thyrsiflorus
+joyce2023	274	272	14375000	
+joyce2023	275	274	11875000	
+joyce2023	276	275	6976744	
+joyce2023	277	276	0	Molinaea sessilifolia
+joyce2023	278	276	0	Molinaea tolambitou
+joyce2023	279	275	625000	
+joyce2023	280	279	0	Tina tamatavensis
+joyce2023	281	279	0	Toechima erythrocarpum
+joyce2023	282	274	8125000	
+joyce2023	283	282	0	Vouarana guianensis
+joyce2023	284	282	7751937	
+joyce2023	285	284	0	Cupania dentata
+joyce2023	286	284	2325581	
+joyce2023	287	286	0	Cupania rubiginosa
+joyce2023	288	286	1937984	
+joyce2023	289	288	0	Cupania hirsuta
+joyce2023	290	288	0	Cupania scrobiculata
